@@ -1,8 +1,8 @@
 '-1':
 - medovecot*fuzz_test-mail-html2text
-'0': 'null'
-'1':
 - medovecot*fuzz_test-mbox-from
+'0': 'null'
+'1': 'null'
 '2':
 - medovecot*fuzz_test-istream-attachment
 '3': 'null'
