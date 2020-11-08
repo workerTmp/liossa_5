@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- medovecot*fuzz_test-quoted-printable
 '0': 'null'
 '1':
-- medovecot*fuzz_test-quoted-printable
 - medovecot*fuzz_test-rfc2231-parser
 - medovecot*fuzz_test-rfc822-parser
 - medovecot*fuzz_test-qp-decoder
