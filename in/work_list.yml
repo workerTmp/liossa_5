@@ -2,11 +2,11 @@
 - medovecot*fuzz_test-quoted-printable
 - medovecot*fuzz_test-rfc2231-parser
 - medovecot*fuzz_test-rfc822-parser
-- medovecot*fuzz_test-qp-decoder
 - medovecot*fuzz_test-mail-html2text
 - medovecot*fuzz_test-mbox-from
 '0': 'null'
-'1': 'null'
+'1':
+- medovecot*fuzz_test-qp-decoder
 '2': 'null'
 '3':
 - medovecot*fuzz_test-istream-attachment
