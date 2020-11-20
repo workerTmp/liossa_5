@@ -1,8 +1,8 @@
 name: clean targets list
 on:
 #for test
-  issue_comment:
-    types: [created]
+#  issue_comment:
+#    types: [created]
   schedule:
     - cron:  '0 7 1 * *'    
 jobs:
