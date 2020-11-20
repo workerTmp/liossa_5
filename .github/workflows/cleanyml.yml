@@ -1,0 +1,25 @@
+name: clean targets list
+on:
+for test
+  issue_comment:
+    types: [created]
+  schedule:
+    - cron:  '0 7 1 * *'    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: ${{ github.head_ref }}  
+      - name: "clean targets yml"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          (sudo rm in/work_list.yml)
+          sudo git config --local user.email "${GITHUB_ACTOR}@gmail.com"
+          sudo git config --local user.name "${GITHUB_ACTOR}"
+          sudo git remote -v
+          sudo git add in/
+          sudo git commit -m "clean targets to rep"
+          sudo git push "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:master --force 
