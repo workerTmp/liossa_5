@@ -1,10 +1,10 @@
 name: start lioss
 on:
 #for test
-  issue_comment:
-    types: [created]
-#  schedule:
-#    - cron:  '0 */8 * * *'    
+#  issue_comment:
+#    types: [created]
+  schedule:
+    - cron:  '0 */8 * * *'    
 jobs:
   build:
     runs-on: ubuntu-latest
