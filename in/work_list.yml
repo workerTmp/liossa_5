@@ -1,7 +1,7 @@
-'-1':
-- medovecot*fuzz_test_mail_html2text
+'-1': 'null'
 '0': 'null'
 '1':
+- medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_test_mbox_from
 '2':
