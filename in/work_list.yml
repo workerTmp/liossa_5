@@ -4,13 +4,13 @@
 '1': 'null'
 '2': 'null'
 '3':
-- medovecot*fuzz_test_quoted_printable
 - medovecot*fuzz_test_istream_attachment
 - medovecot*fuzz_test_rfc2231_parser
 - medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_test_qp_decoder
 '4':
 - medovecot*fuzz_test_rfc822_parser
+- medovecot*fuzz_test_quoted_printable
 '5': 'null'
 '6':
 - medovecot
