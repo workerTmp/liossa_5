@@ -1,7 +1,7 @@
-'-1': 'null'
-'0': 'null'
-'1':
+'-1':
 - medovecot*fuzz_test_mbox_from
+'0': 'null'
+'1': 'null'
 '2':
 - medovecot*fuzz_test_rfc822_parser
 - medovecot*fuzz_qp_encoder
