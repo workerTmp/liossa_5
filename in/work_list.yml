@@ -1,10 +1,10 @@
 '-1':
 - medovecot*fuzz_test_mbox_from
+- medovecot*fuzz_test_qp_decoder
 '0': 'null'
 '1': 'null'
 '2': 'null'
 '3':
-- medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_qp_encoder
 - medovecot*fuzz_message_date
 - medovecot*fuzz_message_address
