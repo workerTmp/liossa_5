@@ -9,4 +9,5 @@
 [![Fuzzing Status Local](docs/medovecot/fuzz_test_mbox_from.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/medovecot/fuzz_test_istream_attachment.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/medovecot/fuzz_message_date.svg)](https://github.com/)
+[![Fuzzing Status Local](docs/medovecot/llvm-symbolizer.svg)](https://github.com/)
 [![Fuzzing Status Local](docs/medovecot/fuzz_message_address.svg)](https://github.com/)
