@@ -3,8 +3,7 @@
 - medovecot*fuzz_test_mbox_from
 '0': 'null'
 '1': 'null'
-'2':
-- medovecot*fuzz_qp_encoder
+'2': 'null'
 '3':
 - medovecot*fuzz_test_quoted_printable
 - medovecot*fuzz_message_id
@@ -15,6 +14,7 @@
 - medovecot*fuzz_test_rfc2231_parser
 - medovecot*fuzz_message_date
 - medovecot*fuzz_test_istream_attachment
+- medovecot*fuzz_qp_encoder
 '4': 'null'
 '5': 'null'
 '6':
