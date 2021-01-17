@@ -7,9 +7,9 @@
 - medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_test_istream_attachment
 - medovecot*fuzz_message_date
+- medovecot*llvm-symbolizer
 '0': 'null'
 '1':
-- medovecot*llvm-symbolizer
 - medovecot*fuzz_message_address
 - medovecot*fuzz_test_quoted_printable
 - medovecot*fuzz_test_qp_decoder
