@@ -10,9 +10,9 @@
 - medovecot*llvm-symbolizer
 - medovecot*fuzz_message_address
 - medovecot*fuzz_test_quoted_printable
-'0': 'null'
-'1':
 - medovecot*fuzz_test_qp_decoder
+'0': 'null'
+'1': 'null'
 '2': 'null'
 '3': 'null'
 '4': 'null'
