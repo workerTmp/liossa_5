@@ -2,7 +2,6 @@
 - medovecot*fuzz_test_mbox_from
 '0': 'null'
 '1':
-- medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_message_date
 - medovecot*fuzz_message_id
 - medovecot*fuzz_qp_encoder
@@ -14,6 +13,7 @@
 - medovecot*llvm-symbolizer
 '2':
 - medovecot*fuzz_test_istream_attachment
+- medovecot*fuzz_test_mail_html2text
 '3': 'null'
 '4': 'null'
 '5': 'null'
