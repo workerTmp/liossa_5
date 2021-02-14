@@ -6,7 +6,6 @@
 '2': 'null'
 '3': 'null'
 '4':
-- medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_message_address
 - medovecot*fuzz_test_quoted_printable
 - medovecot*fuzz_test_rfc822_parser
@@ -17,5 +16,6 @@
 - medovecot*fuzz_message_date
 - medovecot*fuzz_message_id
 - medovecot*fuzz_qp_encoder
+- medovecot*fuzz_test_qp_decoder
 '6':
 - medovecot
