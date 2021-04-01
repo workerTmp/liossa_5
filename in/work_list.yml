@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- medovecot*llvm-symbolizer
 '0': 'null'
 '1':
-- medovecot*llvm-symbolizer
 - medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_test_rfc2231_parser
 - medovecot*fuzz_qp_encoder
