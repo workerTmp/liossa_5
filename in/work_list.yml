@@ -1,9 +1,21 @@
 '-1': 'null'
-'0':
-- medovecot
-'1': 'null'
+'0': 'null'
+'1':
+- medovecot*fuzz_test_mail_html2text
+- medovecot*fuzz_test_mbox_from
+- medovecot*fuzz_message_address
+- medovecot*fuzz_message_date
+- medovecot*fuzz_test_rfc822_parser
+- medovecot*fuzz_test_istream_attachment
+- medovecot*fuzz_qp_encoder
+- medovecot*fuzz_test_quoted_printable
+- medovecot*llvm-symbolizer
+- medovecot*fuzz_message_id
+- medovecot*fuzz_test_qp_decoder
+- medovecot*fuzz_test_rfc2231_parser
 '2': 'null'
 '3': 'null'
 '4': 'null'
 '5': 'null'
-'6': 'null'
+'6':
+- medovecot
