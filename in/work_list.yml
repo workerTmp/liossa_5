@@ -1,7 +1,7 @@
-'-1': 'null'
+'-1':
+- medovecot*fuzz_test_mbox_from
 '0': 'null'
 '1':
-- medovecot*fuzz_test_mbox_from
 - medovecot*fuzz_message_address
 - medovecot*fuzz_message_date
 - medovecot*fuzz_test_rfc822_parser
