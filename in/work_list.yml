@@ -1,8 +1,8 @@
 '-1':
 - medovecot*fuzz_test_mbox_from
+- medovecot*llvm-symbolizer
 '0': 'null'
 '1':
-- medovecot*llvm-symbolizer
 - medovecot*fuzz_message_id
 - medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_test_rfc2231_parser
