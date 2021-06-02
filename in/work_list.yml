@@ -1,7 +1,6 @@
 '-1': 'null'
 '0': 'null'
 '1':
-- medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_qp_encoder
 - medovecot*fuzz_message_address
 - medovecot*fuzz_message_date
@@ -14,6 +13,7 @@
 '2':
 - medovecot*fuzz_test_istream_attachment
 - medovecot*fuzz_message_id
+- medovecot*fuzz_test_qp_decoder
 '3': 'null'
 '4': 'null'
 '5': 'null'
