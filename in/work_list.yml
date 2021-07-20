@@ -2,10 +2,10 @@
 - medovecot*llvm-symbolizer
 - medovecot*fuzz_test_mbox_from
 - medovecot*fuzz_test_istream_attachment
+- medovecot*fuzz_qp_encoder
 '0': 'null'
 '1': 'null'
 '2':
-- medovecot*fuzz_qp_encoder
 - medovecot*fuzz_test_rfc2231_parser
 - medovecot*fuzz_test_mail_html2text
 - medovecot*fuzz_message_address
