@@ -10,11 +10,11 @@
 - medovecot*fuzz_test_qp_decoder
 - medovecot*fuzz_message_date
 - medovecot*fuzz_test_quoted_printable
+- medovecot*fuzz_test_rfc822_parser
 '0': 'null'
 '1': 'null'
 '2': 'null'
-'3':
-- medovecot*fuzz_test_rfc822_parser
+'3': 'null'
 '4': 'null'
 '5': 'null'
 '6':
